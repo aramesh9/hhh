@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    background-color:turquoise;
+    
+    }
+    #spaceimage{
+    height:500px;
+    width:700px;
+    border-width:2px;
+    border-color:black;
+    border-style:dotted;
+    padding:3px;
+    }
+    p{
+     font-size:30px;
+      text-align:center;
+    }
+    #Btn{
+    width:100px;
+    background-color:White;
+    }
